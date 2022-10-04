@@ -1,4 +1,4 @@
-Craig lost the ssh password to the website again. 
+Craig lost the ssh password to the https://secdsm.org website again. 
 It would be really cewl if you could help recover it!
 
 We do fortunately have the user from the shadow file backed up since this isn't the first time this has happened...
